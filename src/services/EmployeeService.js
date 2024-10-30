@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const EMPLOYEE_API_BASE_URL = "https://employeemanagementsystem-backend-fcsa.onrender.com:8080/api/v1/employees";
+const EMPLOYEE_API_BASE_URL = "https://employeemanagementsystem-fkn7.onrender.com:8080/api/v1/employees";
 
 class EmployeeService {
 
